@@ -17,7 +17,7 @@
   .places__image {
     flex: 1 1 340px;
     max-width: 340px;
-    max-height: 340px;
+    object-position: top;
     margin-right: 28px;
   }
 }
