@@ -1,0 +1,17 @@
+.places__description {
+  flex: 1 1 456px;
+  margin: 48px 0 0 0;
+}
+
+@media screen and (max-width: 1023px) {
+  .places__description {
+    flex: 1 1 352px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .places__description {
+    flex: 1 1 100%;
+    padding: 0 16px;
+  }
+}

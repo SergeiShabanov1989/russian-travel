@@ -1,9 +1,9 @@
-.lead {
+.intro {
   max-width: 984px;
 }
 
 @media screen and (max-width: 1279px) {
-  .lead {
+  .intro {
     max-width: 928px;
   }
 }

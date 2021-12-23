@@ -1,0 +1,34 @@
+.places__title {
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
+  color: white;
+  margin: 0 40px 0 0;
+  flex: 0 0 460px;
+}
+
+@media screen and (max-width: 1279px) {
+  .places__title {
+    margin: 0 32px 0 0;
+    flex: 0 0 440px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .places__title {
+    flex: 0 0 340px;
+    font-size: 42px;
+    line-height: 46px;
+    margin: 0 28px 0 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .places__title {
+    flex: 1 1 100%;
+    font-size: 32px;
+    line-height: 35px;
+    margin: 0;
+    padding: 0 16px;
+  }
+}
