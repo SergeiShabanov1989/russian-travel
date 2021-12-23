@@ -11,7 +11,7 @@
 
 @media screen and (max-width: 767px) {
   .places__description {
-    flex: 1 1 100%;
+    flex: 1 0 100%;
     padding: 0 16px;
   }
 }

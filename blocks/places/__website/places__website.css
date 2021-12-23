@@ -14,7 +14,7 @@
 
 @media screen and (max-width: 767px) {
   .places__website {
-    flex: 1 1 100%;
+    flex: 1 0 100%;
     margin-top: 32px;
     padding: 0 16px;
   }
