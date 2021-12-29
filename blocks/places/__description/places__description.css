@@ -13,5 +13,6 @@
   .places__description {
     flex: 1 0 100%;
     padding: 0 16px;
+    margin-top: 32px;
   }
 }

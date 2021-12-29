@@ -2,6 +2,10 @@
   display: flex;
   justify-content: flex-end;
   flex: 0 1 60%;
+  font-size: 14px;
+  line-height: 16px;
+  color: white;
+  margin: 0;
 }
 
 @media screen and (max-width: 767px) {
@@ -9,5 +13,7 @@
     flex: 1 1 100%;
     justify-content: flex-start;
     align-items: center;
+    margin-top: 48px;
+    line-height: 14px;
   }
 }

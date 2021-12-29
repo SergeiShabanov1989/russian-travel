@@ -21,13 +21,13 @@
   bottom: 0;
   right: 0;
   background: #2a2c2f;
-  opacity: .4;
+  opacity: .3;
   z-index: -1;
   transition: opacity .5s;
 }
   
 .cover__item:hover::before {
-  opacity: .7;
+  opacity: .8;
 }
   
 @media screen and (max-width: 1279px) {
